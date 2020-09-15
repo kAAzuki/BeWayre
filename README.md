@@ -26,8 +26,6 @@ In order to run this app:
  
  --Steps to install libraries- _pip install library_name_
  
- --Change the path of files in the CodeMB.py in line_203 & 212
- 
  --Then Run the script "CodeMB.py"
  
  -- The safest route will be plotted on a map displayed in a web browser.
